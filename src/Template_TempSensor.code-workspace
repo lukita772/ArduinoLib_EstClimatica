@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../repositoriosGit/Template_TempSensor/Template_TempSensor"
+		},
+		{
+			"name": "ArduinoLib_TrainAxisSensor",
+			"path": "../../../../repositoriosGit/ArduinoLib_TrainAxisSensor"
+		},
+		{
+			"name": "ArduinoLib_EstClimatica",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
