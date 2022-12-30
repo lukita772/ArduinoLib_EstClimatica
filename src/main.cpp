@@ -85,15 +85,15 @@ enum connectionType
 } currentConnectionType = _wifi;
 
 //MQTT login
-const char* broker = "10.128.2.137";
+const char* broker = "";
 const uint16_t brokerPort = 1883;
-//const char* broker = "190.104.223.227";
-//const uint16_t brokerPort = 27001;
+//const char* broker = "";
+//const uint16_t brokerPort = "";
 //const char* broker = "31.220.52.17";
 //const uint16_t brokerPort = 1883;
 const char MQTT_clientID[] = "ws1";
-const char MQTT_user[] = "iot";
-const char MQTT_passworld[] = "iotiot";
+const char MQTT_user[] = "";
+const char MQTT_passworld[] = "";
 
 
 
